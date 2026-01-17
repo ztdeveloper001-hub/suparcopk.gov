@@ -1,0 +1,8 @@
+{
+  "name": "SUPARCO Official Portal",
+  "description": "A high-fidelity space agency web portal for Pakistan's SUPARCO, modeled after NASA.gov, featuring mission tracking, multimedia hubs, and AI-powered space exploration insights.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
